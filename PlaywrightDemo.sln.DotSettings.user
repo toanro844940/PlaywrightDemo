@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d1541b1_002Daf7c_002D43c2_002D9256_002D0ed2364ce80b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DemoPlaywright" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::86F0659B-D02C-4904-83D1-544BE50F5690::net7.0::PlaywrightDemo.Tests.DemoPlaywright&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a9ff9356_002D9073_002D4174_002D9063_002Df552ff1e6e56/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DemoPlaywright #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::86F0659B-D02C-4904-83D1-544BE50F5690::net7.0::PlaywrightDemo.Tests.DemoPlaywright&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
